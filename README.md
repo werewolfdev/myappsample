@@ -1,0 +1,2 @@
+# myappsample
+Testing git functionalities
